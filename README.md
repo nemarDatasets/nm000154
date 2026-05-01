@@ -1,0 +1,10 @@
+[![DOI](https://img.shields.io/badge/DOI-10.82901%2Fnemar.nm000154-blue)](https://doi.org/10.82901/nemar.nm000154)
+
+This meditation experiment contains 24 subjects. Subjects were
+meditating and were interupted about every 2 minutes to indicate
+their level of concentration and mind wandering. The scientific
+article (see Reference) contains all methodological details.
+
+Note that although the original files were recorded at 2048 Hz, they were downsampled to 256 Hz using the BDF decimator provided by BIOSEMI (https://www.biosemi.com/download.htm).
+
+- Arnaud Delorme (October 17, 2018; updated June 2024)
