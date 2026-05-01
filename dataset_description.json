@@ -2,28 +2,29 @@
   "Name": "EEG meditation study",
   "License": "CC0",
   "Authors": [
-      "Arnaud Delorme",
-      "Tracy Brandmeyer"
+    "Arnaud Delorme",
+    "Tracy Brandmeyer"
   ],
   "Acknowledgements": "",
   "HowToAcknowledge": "",
   "Funding": [],
   "ReferencesAndLinks": [
-      "https://www.ncbi.nlm.nih.gov/pubmed/27815577"
+    "https://www.ncbi.nlm.nih.gov/pubmed/27815577"
   ],
-  "DatasetDOI": "doi:10.18112/openneuro.ds001787.v1.1.1",
+  "DatasetDOI": "10.82901/nemar.nm000154",
   "BIDSVersion": "1.1.1",
   "HEDVersion": "8.4.0",
   "GeneratedBy": [
-      {
-          "Name": "manual",
-          "Description": "Dataset metadata edits for BIDS validator alignment (units, channel counts, task descriptions)."
-      }
+    {
+      "Name": "manual",
+      "Description": "Dataset metadata edits for BIDS validator alignment (units, channel counts, task descriptions)."
+    }
   ],
   "SourceDatasets": [
-      {
-          "URL": "https://openneuro.org/datasets/ds001787",
-          "DOI": "doi:10.18112/openneuro.ds001787.v1.1.1"
-      }
-  ]
+    {
+      "URL": "https://openneuro.org/datasets/ds001787",
+      "DOI": "doi:10.18112/openneuro.ds001787.v1.1.1"
+    }
+  ],
+  "Version": "1.0.0"
 }
