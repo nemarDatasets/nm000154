@@ -1,43 +1,43 @@
-onset	duration	trial_type	response_time	sample	value
-29.7890625000	n/a	stimulus	n/a	7626.0000000000	128
-32.8671875000	n/a	response	n/a	8414.0000000000	2
-151.2265625000	n/a	stimulus	n/a	38714.0000000000	128
-154.0351562500	n/a	response	n/a	39433.0000000000	2
-156.1875000000	n/a	response	n/a	39984.0000000000	2
-175.3750000000	n/a	stimulus	n/a	44896.0000000000	128
-178.5039062500	n/a	response	n/a	45697.0000000000	2
-181.4453125000	n/a	response	n/a	46450.0000000000	4
-255.7382812500	n/a	stimulus	n/a	65469.0000000000	128
-259.1953125000	n/a	response	n/a	66354.0000000000	2
-422.5781250000	n/a	stimulus	n/a	108180.0000000000	128
-425.9687500000	n/a	response	n/a	109048.0000000000	2
-486.0546875000	n/a	stimulus	n/a	124430.0000000000	128
-488.6757812500	n/a	response	n/a	125101.0000000000	2
-571.0195312500	n/a	stimulus	n/a	146181.0000000000	128
-574.0234375000	n/a	response	n/a	146950.0000000000	2
-576.1718750000	n/a	response	n/a	147500.0000000000	2
-693.3906250000	n/a	stimulus	n/a	177508.0000000000	128
-696.4921875000	n/a	response	n/a	178302.0000000000	2
-698.7148437500	n/a	response	n/a	178871.0000000000	2
-743.1914062500	n/a	stimulus	n/a	190257.0000000000	128
-745.8085937500	n/a	response	n/a	190927.0000000000	2
-770.3945312500	n/a	stimulus	n/a	197221.0000000000	128
-773.1718750000	n/a	response	n/a	197932.0000000000	2
-822.3007812500	n/a	stimulus	n/a	210509.0000000000	128
-825.1523437500	n/a	response	n/a	211239.0000000000	2
-827.6992187500	n/a	response	n/a	211891.0000000000	2
-867.8789062500	n/a	stimulus	n/a	222177.0000000000	128
-870.5546875000	n/a	response	n/a	222862.0000000000	2
-918.9062500000	n/a	stimulus	n/a	235240.0000000000	128
-921.5468750000	n/a	response	n/a	235916.0000000000	2
-923.6875000000	n/a	response	n/a	236464.0000000000	2
-1028.9062500000	n/a	stimulus	n/a	263400.0000000000	128
-1031.7656250000	n/a	response	n/a	264132.0000000000	2
-1089.0703125000	n/a	stimulus	n/a	278802.0000000000	128
-1092.4296875000	n/a	response	n/a	279662.0000000000	2
-1094.5937500000	n/a	response	n/a	280216.0000000000	4
-1096.7968750000	n/a	response	n/a	280780.0000000000	2
-1235.8085937500	n/a	stimulus	n/a	316367.0000000000	128
-1238.8125000000	n/a	response	n/a	317136.0000000000	4
-1346.1875000000	n/a	stimulus	n/a	344624.0000000000	128
-1348.8554687500	n/a	response	n/a	345307.0000000000	4
+onset	duration	trial_type	response_time	sample	value	trial_index	txt_label	txt_onset_log_s	merge_note
+29.7890625000	n/a	stimulus	n/a	7626.0000000000	128	1	MW_question	24.1000	stimulus_value_128_is_MW_prompt_in_EEG
+32.8671875000	n/a	response	n/a	8414.0000000000	2	1	key_status_1	27.1000	aligned_by_order
+151.2265625000	n/a	stimulus	n/a	38714.0000000000	128	2	MW_question	145.5000	stimulus_value_128_is_MW_prompt_in_EEG
+154.0351562500	n/a	response	n/a	39433.0000000000	2	2	key_status_1	148.3000	aligned_by_order
+156.1875000000	n/a	response	n/a	39984.0000000000	2	2	key_status_2	150.4000	aligned_by_order
+175.3750000000	n/a	stimulus	n/a	44896.0000000000	128	3	MW_question	169.6000	stimulus_value_128_is_MW_prompt_in_EEG
+178.5039062500	n/a	response	n/a	45697.0000000000	2	3	key_status_1	172.8000	aligned_by_order
+181.4453125000	n/a	response	n/a	46450.0000000000	4	3	key_status_2	175.7000	aligned_by_order
+255.7382812500	n/a	stimulus	n/a	65469.0000000000	128	4	MW_question	250.0000	stimulus_value_128_is_MW_prompt_in_EEG
+259.1953125000	n/a	response	n/a	66354.0000000000	2	4	key_status_1	253.4000	aligned_by_order
+422.5781250000	n/a	stimulus	n/a	108180.0000000000	128	5	MW_question	416.8000	stimulus_value_128_is_MW_prompt_in_EEG
+425.9687500000	n/a	response	n/a	109048.0000000000	2	5	key_status_1	420.2000	aligned_by_order
+486.0546875000	n/a	stimulus	n/a	124430.0000000000	128	6	MW_question	480.3000	stimulus_value_128_is_MW_prompt_in_EEG
+488.6757812500	n/a	response	n/a	125101.0000000000	2	6	key_status_1	482.9000	aligned_by_order
+571.0195312500	n/a	stimulus	n/a	146181.0000000000	128	7	MW_question	565.3000	stimulus_value_128_is_MW_prompt_in_EEG
+574.0234375000	n/a	response	n/a	146950.0000000000	2	7	key_status_1	568.2000	aligned_by_order
+576.1718750000	n/a	response	n/a	147500.0000000000	2	7	key_status_2	570.4000	aligned_by_order
+693.3906250000	n/a	stimulus	n/a	177508.0000000000	128	8	MW_question	687.6000	stimulus_value_128_is_MW_prompt_in_EEG
+696.4921875000	n/a	response	n/a	178302.0000000000	2	8	key_status_1	690.7000	aligned_by_order
+698.7148437500	n/a	response	n/a	178871.0000000000	2	8	key_status_2	692.9000	aligned_by_order
+743.1914062500	n/a	stimulus	n/a	190257.0000000000	128	9	MW_question	737.4000	stimulus_value_128_is_MW_prompt_in_EEG
+745.8085937500	n/a	response	n/a	190927.0000000000	2	9	key_status_1	740.0000	aligned_by_order
+770.3945312500	n/a	stimulus	n/a	197221.0000000000	128	10	MW_question	764.6000	stimulus_value_128_is_MW_prompt_in_EEG
+773.1718750000	n/a	response	n/a	197932.0000000000	2	10	key_status_1	767.4000	aligned_by_order
+822.3007812500	n/a	stimulus	n/a	210509.0000000000	128	11	MW_question	816.5000	stimulus_value_128_is_MW_prompt_in_EEG
+825.1523437500	n/a	response	n/a	211239.0000000000	2	11	key_status_1	819.4000	aligned_by_order
+827.6992187500	n/a	response	n/a	211891.0000000000	2	11	key_status_2	821.9000	aligned_by_order
+867.8789062500	n/a	stimulus	n/a	222177.0000000000	128	12	MW_question	862.1000	stimulus_value_128_is_MW_prompt_in_EEG
+870.5546875000	n/a	response	n/a	222862.0000000000	2	12	key_status_1	864.7000	aligned_by_order
+918.9062500000	n/a	stimulus	n/a	235240.0000000000	128	13	MW_question	913.1000	stimulus_value_128_is_MW_prompt_in_EEG
+921.5468750000	n/a	response	n/a	235916.0000000000	2	13	key_status_1	915.7000	aligned_by_order
+923.6875000000	n/a	response	n/a	236464.0000000000	2	13	key_status_2	917.9000	aligned_by_order
+1028.9062500000	n/a	stimulus	n/a	263400.0000000000	128	14	MW_question	1023.1000	stimulus_value_128_is_MW_prompt_in_EEG
+1031.7656250000	n/a	response	n/a	264132.0000000000	2	14	key_status_1	1026.0000	aligned_by_order
+1089.0703125000	n/a	stimulus	n/a	278802.0000000000	128	15	MW_question	1083.3000	stimulus_value_128_is_MW_prompt_in_EEG
+1092.4296875000	n/a	response	n/a	279662.0000000000	2	15	key_status_1	1086.6000	aligned_by_order
+1094.5937500000	n/a	response	n/a	280216.0000000000	4	15	key_status_2	1088.8000	aligned_by_order
+1096.7968750000	n/a	response	n/a	280780.0000000000	2	15	key_status_3	1091.0000	aligned_by_order
+1235.8085937500	n/a	stimulus	n/a	316367.0000000000	128	16	MW_question	1230.0000	stimulus_value_128_is_MW_prompt_in_EEG
+1238.8125000000	n/a	response	n/a	317136.0000000000	4	16	key_status_1	1233.0000	aligned_by_order
+1346.1875000000	n/a	stimulus	n/a	344624.0000000000	128	17	MW_question	1340.4000	stimulus_value_128_is_MW_prompt_in_EEG
+1348.8554687500	n/a	response	n/a	345307.0000000000	4	17	key_status_1	1343.0000	aligned_by_order

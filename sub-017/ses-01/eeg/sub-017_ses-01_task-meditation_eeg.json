@@ -8,7 +8,7 @@
   "EEGReference": "CMS/DRL",
   "Manufacturer": "BIOSEMI",
   "EEGChannelCount": 64,
-  "MiscChannelCount": 15,
+  "MiscChannelCount": 10,
   "RecordingType": "continuous",
   "RecordingDuration": 2787,
   "SamplingFrequency": 256,
